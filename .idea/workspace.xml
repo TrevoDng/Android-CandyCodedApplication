@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,24 +187,32 @@
       <option name="project" value="LOCAL" />
       <updated>1601762024657</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create an ACTION_DIAL Intent">
+      <created>1601838183012</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601838183012</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Start the Store Information Activity" />
     <MESSAGE value="Start the Google Maps Activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start the Google Maps Activity" />
+    <MESSAGE value="Create an ACTION_DIAL Intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create an ACTION_DIAL Intent" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1694" y="418" key="#com.intellij.ide.util.MemberChooser" timestamp="1601754339077">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1694" y="418" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1601754339077" />
-    <state x="1400" y="304" key="CommitChangelistDialog2" timestamp="1601762023704">
+    <state x="685" y="274" key="CommitChangelistDialog2" timestamp="1601838180529">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1400" y="304" key="CommitChangelistDialog2/0.23.2560.1417@0.23.2560.1417" timestamp="1601762023704" />
+    <state x="685" y="274" key="CommitChangelistDialog2/0.23.2560.1417@0.23.2560.1417" timestamp="1601838180529" />
     <state x="1560" y="534" key="com.intellij.ide.util.TipDialog" timestamp="1601753479102">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
